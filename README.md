@@ -12,7 +12,7 @@
 This project was developed using cutting edge front-end technologies.
 
 
-- [ReactJS](https://reactjs.org/) <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />(https://reactjs.org/) 
 - [Typescript](https://www.typescriptlang.org/)
 - [Next.js](https://nextjs.org/)
 
