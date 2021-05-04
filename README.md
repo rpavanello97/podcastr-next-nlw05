@@ -1,10 +1,8 @@
-#Podcastr
-
 ## Podcastr
 ![podcastr](https://user-images.githubusercontent.com/53226501/117080885-1ef19780-ad15-11eb-84a6-c2d4ff6f8472.gif)
 
 <h4 align="center">
-  Podcastr is a platform built for podcast broadcasting.
+  Podcastr is a platform built for podcast broadcasting created at the Next Level Week event by Rockeseat.
 </h4>
 
 
@@ -25,7 +23,7 @@ This project was developed using cutting edge front-end technologies.
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/josepholiveira/podcastr.git && cd podcastr
+$ git clone git@github.com:rpavanello97/podcastr-next-nlw05.git && cd podcastr
 ```
 
 **Follow the steps below**
