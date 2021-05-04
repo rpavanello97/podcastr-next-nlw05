@@ -1,4 +1,6 @@
-## Podcastr  <img src="public/logo.svg" alt="Podcastr logo">
+<div>
+  <h1 align="center">Podcastr  <img src="public/logo.svg" alt="Podcastr logo"></h1>
+</div>
 ![podcastr](https://user-images.githubusercontent.com/53226501/117080885-1ef19780-ad15-11eb-84a6-c2d4ff6f8472.gif)
 
 <h4 align="center">
