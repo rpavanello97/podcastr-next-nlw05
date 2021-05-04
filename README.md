@@ -12,9 +12,9 @@
 This project was developed using cutting edge front-end technologies.
 
 
-- [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](https://reactjs.org/) 
-- [Typescript](https://www.typescriptlang.org/)
-- [Next.js](https://nextjs.org/)
+- [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](https://reactjs.org/)
+- [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />](https://www.typescriptlang.org/)\
+- [<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />](https://nextjs.org/)\
 
 ## 💻 Getting started
 
