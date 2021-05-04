@@ -46,6 +46,7 @@ The app will be available for access on your browser at `http://localhost:3000`
 
 
 ## Podcastr
+![podcastr](https://user-images.githubusercontent.com/53226501/117080885-1ef19780-ad15-11eb-84a6-c2d4ff6f8472.gif)
 
 <h4 align="center">
   Podcastr is a platform built for podcast broadcasting.
