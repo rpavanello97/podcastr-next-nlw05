@@ -1,20 +1,20 @@
-<div align="center">
-  <img src=".github/podcastr-logo.svg" alt="Podcastr logo">
-</div>
+#Podcastr
+
+## Podcastr
+![podcastr](https://user-images.githubusercontent.com/53226501/117080885-1ef19780-ad15-11eb-84a6-c2d4ff6f8472.gif)
+
+<h4 align="center">
+  Podcastr is a platform built for podcast broadcasting.
+</h4>
+
 
 ## Tecnologies
 
-<div align="center">
-  <br />
-  <img src=".github/tech-logos.png" alt="Technologies used">
-</div>
-
 This project was developed using cutting edge front-end technologies.
 
-
 - [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](https://reactjs.org/)
-- [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />](https://www.typescriptlang.org/)\
-- [<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />](https://nextjs.org/)\
+- [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />](https://www.typescriptlang.org/)
+- [<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />](https://nextjs.org/)
 
 ## 💻 Getting started
 
@@ -42,16 +42,6 @@ $ yarn dev
 ```
 
 The app will be available for access on your browser at `http://localhost:3000`
-
-
-
-## Podcastr
-![podcastr](https://user-images.githubusercontent.com/53226501/117080885-1ef19780-ad15-11eb-84a6-c2d4ff6f8472.gif)
-
-<h4 align="center">
-  Podcastr is a platform built for podcast broadcasting.
-</h4>
-
 
 ## 📝 License
 
